@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppPathAsFirstArg</key>
+	<true/>
+	<key>Authentication</key>
+	<false/>
+	<key>Author</key>
+	<string>Buck DeFore</string>
+	<key>BundledFiles</key>
+	<array>
+		<string>/Users/bdefore/Documents/Dev/Active/Projects/IMGT/src 0.8/gems</string>
+	</array>
+	<key>Creator</key>
+	<string>Platypus-4.4</string>
+	<key>CustomIconPath</key>
+	<string>/Users/bdefore/Downloads/Platypus-4.4/Platypus.app/Contents/Resources/PlatypusDefault.icns</string>
+	<key>Destination</key>
+	<string>/Users/bdefore/Desktop/MyApp.app</string>
+	<key>DestinationOverride</key>
+	<false/>
+	<key>DevelopmentVersion</key>
+	<false/>
+	<key>Droppable</key>
+	<false/>
+	<key>Environment</key>
+	<dict/>
+	<key>ExecutablePath</key>
+	<string>/usr/local/share/platypus/ScriptExec</string>
+	<key>FileTypes</key>
+	<array>
+		<string>****</string>
+		<string>fold</string>
+	</array>
+	<key>HasCustomIcon</key>
+	<true/>
+	<key>Identifier</key>
+	<string>org.bdefore.imgt</string>
+	<key>Interpreter</key>
+	<string>/usr/bin/ruby</string>
+	<key>Name</key>
+	<string>imgt</string>
+	<key>NibPath</key>
+	<string>/usr/local/share/platypus/MainMenu.nib</string>
+	<key>OptimizeApplication</key>
+	<false/>
+	<key>Output</key>
+	<string>Text Window</string>
+	<key>Parameters</key>
+	<array>
+		<string>-argument</string>
+	</array>
+	<key>RemainRunning</key>
+	<true/>
+	<key>Role</key>
+	<string>Viewer</string>
+	<key>ScriptPath</key>
+	<string>/Users/bdefore/Documents/Dev/Active/Projects/IMGT/src 0.8/imgt.rb</string>
+	<key>Secure</key>
+	<false/>
+	<key>ShowInDock</key>
+	<false/>
+	<key>Signature</key>
+	<string>????</string>
+	<key>StatusItemDisplayType</key>
+	<string>Text</string>
+	<key>StatusItemIcon</key>
+	<data>
+	</data>
+	<key>StatusItemTitle</key>
+	<string>MyApp</string>
+	<key>Suffixes</key>
+	<array>
+		<string>*</string>
+	</array>
+	<key>TextBackground</key>
+	<string>#ffffff</string>
+	<key>TextEncoding</key>
+	<integer>4</integer>
+	<key>TextFont</key>
+	<string>Monaco</string>
+	<key>TextForeground</key>
+	<string>#000000</string>
+	<key>TextSize</key>
+	<real>10</real>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>
