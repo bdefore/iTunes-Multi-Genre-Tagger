@@ -14,3 +14,7 @@ Extended from Last.FM Music Tagger by wes@633k.net
 
 TODO:
 Package gems into portable Pashua app. Gem.use_paths not behaving
+
+Usage:
+Select some tracks in iTunes, then run 'ruby imgt.rb' to launch. Configure as you like,
+then click Get Tags!
